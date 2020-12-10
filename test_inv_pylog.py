@@ -1,8 +1,6 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 26 11:08:24 2020
-
 @author: Paul Jouet
 """
 
